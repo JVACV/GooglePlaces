@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GooglePlaces</string>
+    <string name="types">\@values/strings/</string>
+    <string-array name="types">
+        <item>atm</item>
+        <item>school</item>
+        <item>hospital</item>
+        <item>bakery</item>
+        <item>food</item>
+        <item>bank</item>
+        <item>church</item>
+    </string-array>
+</resources>
